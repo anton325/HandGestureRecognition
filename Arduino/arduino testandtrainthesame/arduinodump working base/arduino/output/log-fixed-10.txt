@@ -1,0 +1,16 @@
+W1 * XX
+	Input1: scale = -13, interval = [-24860, 21283]
+	Input2: scale = -10, interval = [0, 16384]
+	Output: scale = -10, interval = [0, 0]
+tmp9 + Bias1
+	Input1: scale = -10, interval = [0, 0]
+	Input2: scale = -15, interval = [-7774, 18774]
+	Output: scale = -10, interval = [0, 0]
+W2 * tmp10
+	Input1: scale = -11, interval = [-30435, 19295]
+	Input2: scale = -10, interval = [0, 0]
+	Output: scale = -6, interval = [0, 0]
+tmp12 + Bias2
+	Input1: scale = -6, interval = [0, 0]
+	Input2: scale = -12, interval = [-20167, 13640]
+	Output: scale = -6, interval = [0, 0]

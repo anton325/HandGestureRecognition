@@ -1,0 +1,5 @@
+Demoted Vars:
+{'Bias2': 0, 'W1': 0, 'Bias1': 0, 'W2': 0, 'X': 0, 'tmp9': 0, 'tmp10': 0}
+All scales:
+{'tmp0': -5, 'W1': -5, 'tmp1': -7, 'Bias1': -7, 'tmp2': -2, 'W2': -2, 'tmp3': -3, 'Bias2': -3, 'tmp4': -6, 'X': -7, 'tmp5': -7, 'XX': -7, 'tmp9': -2, 'tmp10': -2, 'tmp12': -4, 'tmp13': -5}
+Accuracy at scale factor -15 is 68.750%, Disagreement Count is 29, Reduced Disagreement Count is 29

@@ -1,0 +1,16 @@
+nnz values: 1493
+# indexes: 0
+
+---------------------
+Model size comparison
+---------------------
+32-bit floating-points (in KB): 5.832
+(assuming 4 bytes for values and 2 bytes for indices)
+
+16-bit fixed-points (in KB): 2.916
+(assuming 2 bytes for values and 2 bytes for indices)
+
+32-bit fixed-points (in KB): 5.832
+(assuming 4 bytes for values and 2 bytes for indices)
+--------------------------------------------
+
